@@ -80,7 +80,7 @@ body {
     height: 100%;
     left: 0;
     top: 0;
-    background: url(../img/top-header.png) left top repeat;
+    background: url(../img/top-header.jpg) left top repeat;
     background-size: cover;
     filter: blur(8px);
     -webkit-filter: blur(8px);
